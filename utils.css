@@ -1,0 +1,33 @@
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.grey {
+    background-color: #9F9F9F;
+    color: black;
+}
+
+.extra-large-fonts {
+    font-size: 32px;
+    font-weight: 300;
+}
